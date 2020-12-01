@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Insertar Persona"
+        android:textSize="18sp"/>
+
+    <EditText
+        android:id="@+id/nuevaPersona"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_marginTop="10dp"
+        android:hint="Escriba un nombre"
+        android:paddingLeft="15dp" />
+
+    <Button
+        android:id="@+id/button_aceptar_insertar_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nuevaPersona"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="10dp"
+        android:text="Aceptar" />
+
+    <Button
+        android:id="@+id/button_cancelarInsertarUsuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/button_aceptar_insertar_user"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="70dp"
+        android:layout_marginBottom="30dp"
+        android:text="Cancelar" />
+</RelativeLayout>
