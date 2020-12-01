@@ -10,26 +10,27 @@ Para borrar, mantenemos pulsado encima del nombre de la persona que queremos bor
 - [Java](https://www.java.com/es/download/)
 
 ## Capturas de pantalla
-MainActivity:
-<img src="assets/images/Screenshot_1.png" width="239" height="470">
 
-Pulsando el Floating Action Button nos saldría para añadir personas:
-<img src="assets/images/Screenshot_2.png" width="239" height="470">
+<p>MainActivity:</p>
+<img src="assets/images/Screenshot_1.png" width="282" height="454">
 
-Escribimos el nombre de la persona y pulsamos "Aceptar":
-<img src="assets/images/Screenshot_3.png" width="239" height="470">
+<p>Pulsando el Floating Action Button nos saldría para añadir personas:</p>
+<img src="assets/images/Screenshot_2.png" width="282" height="454">
 
-Nombre de la persona insertada con mensaje Toast:
-<img src="assets/images/Screenshot_4.png" width="239" height="470">
+<p>Escribimos el nombre de la persona y pulsamos "Aceptar":</p>
+<img src="assets/images/Screenshot_3.png" width="282" height="454">
 
-Mantenemos pulsado en el nombre y seleccionamos "Eliminar":
-<img src="assets/images/Screenshot_5.png" width="239" height="470">
+<p>Nombre de la persona insertada con mensaje Toast:</p>
+<img src="assets/images/Screenshot_4.png" width="282" height="454">
 
-Nos saldrá una alerta de si estamos seguros, le decimos que si en nuestro caso:
-<img src="assets/images/Screenshot_6.png" width="239" height="470">
+<p>Mantenemos pulsado en el nombre y seleccionamos "Eliminar":</p>
+<img src="assets/images/Screenshot_5.png" width="282" height="454">
 
-Persona eliminada y con un mensaje Toast:
-<img src="assets/images/Screenshot_7.png" width="239" height="470">
+<p>Nos saldrá una alerta de si estamos seguros, le decimos que si en nuestro caso:</p>
+<img src="assets/images/Screenshot_6.png" width="282" height="454">
+
+<p>Persona eliminada y con un mensaje Toast:</p>
+<img src="assets/images/Screenshot_7.png" width="282" height="454">
 
 ## Autores
 - Alejandro Cea
