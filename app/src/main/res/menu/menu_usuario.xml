@@ -2,6 +2,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/borrar_usuario"
-        android:title="Eliminar"/>
+    android:id="@+id/borrar_usuario"
+    android:title="Eliminar"/>
+
+    <item
+        android:id="@+id/actualizar_usuario"
+        android:title="Actualizar"/>
+    
 </menu>
